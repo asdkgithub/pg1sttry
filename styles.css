@@ -1,0 +1,36 @@
+body{
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-align: center;
+}
+.main{
+  background-color: #eff8ff;
+  height: 400px;
+  padding-top: 100px;
+}
+.top{
+  padding-top: 10px;
+  padding-left: 400px;
+  background-color: white;
+  height: 30px;
+  width:auto;
+}
+h1{
+  font-size: 4em;
+  font-family: 'Dancing Script', cursive;
+  color:#7868e6;
+  margin-top: 0;
+}
+p{
+  color: #769fcd;
+  font-size: 1.2rem;
+  font-family: 'Dosis', sans-serif;
+}
+a{
+  text-decoration: none;
+    font-family: 'Dosis', sans-serif;
+}
+a:hover{
+  color: red;
+}
